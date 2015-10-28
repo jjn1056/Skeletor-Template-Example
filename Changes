@@ -2,3 +2,6 @@ The following this the history of changes for distribution Skeletor-Template-Exa
 
 0.001   October 27, 2015
         - Initial Release
+
+0.002   Octover 28, 2015
+        - Fix broken share directory
